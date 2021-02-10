@@ -21,7 +21,7 @@ Suppose there are n classes of Breast Cancer ( here n=2, the two classes are Ben
     
  We take 100 samples as training data to create the model and take 26 (1/4th of the total) samples as testing data, to test the Naive Bayes Model. After performing Naive Bayes algorithm, we create a confusion matrix using the test data set to find the Accuracy, Sensitivity and Specificity of this method. 
  
- ![alt text](https://github.com/siddhaling/Breast-Cancer-Risk-Prediction-Using-Data-Science-Techniques/blob/main/images/1.jpg)
+ ![alt text](https://github.com/siddhaling/Breast-Cancer-Risk-Prediction-Using-Data-Science-Techniques/blob/main/images/111.jpg)
  
  Variable Declaration
  
